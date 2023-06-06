@@ -1,0 +1,12 @@
+{
+  "name": "anatomic-pino",
+  "version": "0.3.0",
+  "main": "index.js",
+  "repository": "github:add1ed/anatomic-pino",
+  "author": "add1ed",
+  "license": "ISC",
+  "dependencies": {
+    "pino": "7.5.1",
+    "pino-http": "6.3.3"
+  }
+}
